@@ -1,9 +1,12 @@
 # 👋 Hi, I’m Mohamad Ibnu Raffi
-I’m very interested in Cyber Security and Robotics, hopefully i can do more things with this github of mine
+I’m very interested in Cyber Security and also Robotics, hopefully i can do more things with this github of mine
 
-- Currently trying to learn programming, whiles also trying to learn how to do scripting since that's what i'm really lacking right now.
-- Also trying to learn how low level programming works by playing Reverse Engineering and Pwn CTF
-- And getting into college also drives me to learn more, and got me interested into Robotics, my main goal right now is making a line follower
+- Currently trying to deepen my algorithm knowledge, with most of my time just making bunch of CTF scripts and doing DSA + Robotics in my campus.
+- Also trying to learn how low level programming works in computer architecture, so something like machine language and assembly.
+- And since i'm doing cyber security, i'm also working a little bit on web development so i can have an understanding on how web architecture works.
+- And being interested in Robotics as well means i'm also in a pursue to understanding 3D CAD, CNC and other stuff like that
+
+I'm pretty thrive to gain knowledge in tech
 <!---
 MirNgab/MirNgab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
